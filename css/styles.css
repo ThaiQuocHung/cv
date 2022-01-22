@@ -1,0 +1,189 @@
+body {
+  background-color: ;
+  margin: 0;
+  text-align: center;
+}
+
+h1 {}
+
+hr {
+  border: 0;
+  margin: 0;
+  background-color: black;
+  height: 2px;
+}
+
+a {
+  margin-right: 10px;
+}
+
+/*---------Class------*/
+.topcontainer {
+  background-color: #dad4d4;
+  position: relative;
+  padding-bottom: 52%;
+}
+
+.middlecontainer {
+  background: #FFF3E4;
+}
+
+.bottomcontainer {
+  line-height: 2;
+  padding: 5%;
+  background-color: #191919;
+}
+
+.bottom-hr {
+  border: 0;
+  margin: 0;
+  background-color: black;
+  height: 7px;
+}
+
+.first-skill {
+  position: absolute;
+  left: 200px;
+}
+
+.seccond-skill {
+  position: absolute;
+  right: 200px;
+}
+
+.third-skill {
+  position: absolute;
+  left: 38%;
+}
+
+.event-manager {
+  width: 26.5rem;
+}
+
+.profile {
+  position: absolute;
+  right: 90px;
+  top: 90px;
+  width: 35%;
+}
+
+.signature {
+  position: absolute;
+  top: 220px;
+  right: 550px;
+  width: 25%;
+}
+
+.teaching {
+  width: 24.5rem;
+}
+
+.gaming {
+  width: 27.3rem;
+}
+
+.topcontent {
+  text-align: justify;
+  text-align-last: right;
+  position: absolute;
+  display: inline-block;
+  top: 200px;
+  left: 400px;
+}
+
+.skillrow {
+  padding-bottom: 35%;
+  position: relative;
+}
+
+.middle-open {
+  padding: 50px 0 100px;
+}
+
+.name {
+  padding-bottom: 20px;
+}
+
+.name-box {
+  display: inline-block;
+  text-align: left;
+}
+
+.surname-box {
+  display: inline-block;
+  margin-left: 20px;
+  text-align: left;
+}
+
+.email-box {
+  padding-bottom: 30px;
+  display: inline-block;
+  text-align: left;
+  width: 64.74rem;
+}
+
+.message-box {
+  display: inline-block;
+  text-align: left;
+  width: 64.74rem;
+}
+
+.sign-in {
+  background-color: #dad4d4;
+  line-height: 2;
+  padding-top: 100px;
+  padding-bottom: 250px;
+}
+
+.btn {
+  border: none;
+  -webkit-border-radius: 2;
+  -moz-border-radius: 2;
+  border-radius: 2;
+  font-family: Arial;
+  color: black;
+  font-size: 17px;
+  background: #FFF3E4;
+  padding: 7px 12px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #dedede;
+  text-decoration: none;
+}
+
+.button {
+  margin-left: 415px;
+  width: 1035.830px;
+  text-align: left;
+}
+
+.icon {
+  text-align: right;
+  width: 3%;
+}
+.icon-footer{
+  ;
+
+}
+.name-tag {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+}
+
+/*-------------ID--------------*/
+#name-box {
+  line-height: 2;
+  width: 500px;
+}
+
+#email-box {
+  line-height: 2;
+  width: 64.615rem;
+}
+
+#message-box {
+  width: 64.615rem;
+  line-height: 10;
+}
